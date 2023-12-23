@@ -421,7 +421,7 @@ return {
 	de = {
 
 		["mod_name"] = "Siemens Vectron MS und AC Repaint Paket 1",
-		["mod_desc"] = "Dies ist das Repaintpacket für die Siemens Vectron MS und AC von der Modwerkstatt. In diesem Paket sind weitere 89 Lackierungen enthalten. Lackierungen der SBB entstanden in Kooperation und mit Erlaubnis der SBB Cargo International und Railcolor.",
+		["mod_desc"] = "Dies ist das Repaintpaket für die Siemens Vectron MS und AC von der ModWrkstatt. In diesem Paket sind weitere 89 Lackierungen enthalten. Lackierungen der SBB entstanden in Kooperation und mit Erlaubnis der SBB Cargo International und Railcolor.",
 
         ["br193_ms_menu"] = "Vectron BR 193 MS",
 		["br193_ac_menu"] = "Vectron BR 193 AC",
