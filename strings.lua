@@ -169,6 +169,7 @@ return {
 		["br193_ac_setg4_name"] = 		"Class 193 812 AC SETG (white)",
 		["br193_ac_setg5_name"] = 		"Class 193 204 AC SETG (Mozart)",
 		["br193_ac_setg6_name"] = 		"Class 193 831 AC SETG (Christian Doppler)",
+		["br193_ac_setg7_name"] = 		"Class 193 204 AC SETG (Mozart 2023)",
 
 		--- Smartron ---
 
@@ -241,6 +242,19 @@ return {
 		["br193_ac_setg4_name_vorspann"] = 		"Lead - Class 193 812 AC SETG (white)",
 		["br193_ac_setg5_name_vorspann"] = 		"Lead - Class 193 204 AC SETG (Mozart)",
 		["br193_ac_setg6_name_vorspann"] = 		"Lead - Class 193 831 AC SETG (Christian Doppler)",
+		["br193_ac_setg7_name_vorspann"] = 		"Lead - Class 193 204 AC SETG (Mozart 2023)",
+
+		--- Smartron ---
+
+		["br192_sm_siemens_name_vorspann"] = 	"Lead - Class BR 192 001 Siemens",
+
+		["br192_sm_bbl_name_vorspann"] = 		"Lead - Class 192 008 BBL Logistik",
+
+		["br192_sm_evb_name_vorspann"] = 		"Lead - Class 192 005 EVB",
+		["br192_sm_evb2_name_vorspann"] = 		"Lead - Class 192 076 EVB (Black Forest Terminal)",
+
+		["br192_sm_nrail_name_vorspann"] = 		"Lead - Class 192 017 Northrail",
+		["br192_sm_nrail2_name_vorspann"] = 	"Lead - Class 192 015 Northrail/ RTB Cargo",
 
 		--- DC ---
 
@@ -390,6 +404,7 @@ return {
 		["br193_ac_setg4_name_fake"] = 		"Fake - Class 193 812 AC SETG (white)",
 		["br193_ac_setg5_name_fake"] = 		"Fake - Class 193 204 AC SETG (Mozart)",
 		["br193_ac_setg6_name_fake"] = 		"Fake - Class 193 831 AC SETG (Christian Doppler)",
+		["br193_ac_setg7_name_fake"] = 		"Fake - Class 193 204 AC SETG (Mozart 2023)",
 
 		--- Smartron ---
 
@@ -589,6 +604,7 @@ return {
 		["br193_ac_setg4_name"] = 		"BR 193 812 AC SETG (weiß)",
 		["br193_ac_setg5_name"] = 		"BR 193 204 AC SETG (Mozart)",
 		["br193_ac_setg6_name"] = 		"BR 193 831 AC SETG (Christian Doppler)",
+		["br193_ac_setg7_name"] = 		"BR 193 204 AC SETG (Mozart 2023)",
 
 		--- Smartron ---
 
@@ -603,8 +619,6 @@ return {
 		["br192_sm_nrail2_name"] = 		"BR 192 015 Northrail/ RTB Cargo",
 
 		["br192_sm_rhc_name"] = 		"BR 192 045 Rhein Cargo",
-
-		["br192_sm_pimk_name"] = 		"BR 192 962 Pimk Rail",
 
 		--- DC ---
 
@@ -661,6 +675,22 @@ return {
 		["br193_ac_setg4_name_vorspann"] = 		"Vorspann - BR 193 812 AC SETG (weiß)",
 		["br193_ac_setg5_name_vorspann"] = 		"Vorspann - BR 193 204 AC SETG (Mozart)",
 		["br193_ac_setg6_name_vorspann"] = 		"Vorspann - BR 193 831 AC SETG (Christian Doppler)",
+		["br193_ac_setg7_name_vorspann"] = 		"Vorspann - BR 193 204 AC SETG (Mozart 2023)",
+
+		--- Smartron ---
+
+		["br192_sm_siemens_name_vorspann"] = 	"Vorspann - BR 192 001 Siemens",
+
+		["br192_sm_bbl_name_vorspann"] = 		"Vorspann - BR 192 008 BBL Logistik",
+
+		["br192_sm_evb_name_vorspann"] = 		"Vorspann - BR 192 005 EVB",
+		["br192_sm_evb2_name_vorspann"] = 		"Vorspann - BR 192 076 EVB (Black Forest Terminal)",
+
+		["br192_sm_nrail_name_vorspann"] = 		"Vorspann - BR 192 017 Northrail",
+		["br192_sm_nrail2_name_vorspann"] = 	"Vorspann - BR 192 015 Northrail/ RTB Cargo",
+
+		["br192_sm_rhc_name_vorspann"] = 		"Vorspann - BR 192 045 Rhein Cargo",
+
 
 		--- DC ---
 
@@ -810,6 +840,7 @@ return {
 		["br193_ac_setg4_name_fake"] = 		"Fake - BR 193 812 AC SETG (weiß)",
 		["br193_ac_setg5_name_fake"] = 		"Fake - BR 193 204 AC SETG (Mozart)",
 		["br193_ac_setg6_name_fake"] = 		"Fake - BR 193 831 AC SETG (Christian Doppler)",
+		["br193_ac_setg7_name_fake"] = 		"Fake - BR 193 204 AC SETG (Mozart 2023)",
 
 		--- Smartron ---
 

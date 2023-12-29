@@ -751,7 +751,7 @@ return {
 				children = {
 					{
 						materials = { "vehicle/train/br193/rumpf_ac_retrack2.mtl", },
-						mesh = "vehicle/train/br193/rumpf_lod34.msh",
+						mesh = "vehicle/train/br193/rumpf_lod4.msh",
 						name = "Kasten_eckig",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
