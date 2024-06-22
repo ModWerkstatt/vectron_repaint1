@@ -104,7 +104,7 @@ return {
 		["br193_ms_pkp3_name"] = 		"Class 370 022 MS PKP Cargo (roof blue)",
 		["br193_ms_pkp4_name"] = 		"Class 383 053 MS PKP Cargo (Unitcredit) ",
 
-		["br193_ms_sbb_name"] = 		"Class 6193 107 MS SBBCINT Silverpiercer (Lake Constance)",
+		["br193_ms_sbb_name"] = 		"Class 193 107 MS SBBCINT Silverpiercer (Lake Constance)",
 		["br193_ms_sbb2_name"] = 		"Class 193 258 MS SBBCINT/ELL",
 		["br193_ms_sbb3_name"] = 		"Class 193 658 MS SBBCINT Shadowpiercer (Lake Lucerne)",
 		["br193_ms_sbb4_name"] = 		"Class 193 469 MS SBBCINT Alppiercer (Simplon)",
@@ -114,11 +114,18 @@ return {
 		["br193_ms_sbb8_name"] = 		"Class 193 525 MS SBBCINT Hollandpiercer (Rotterdam)",
 		["br193_ms_sbb9_name"] = 		"Class 193 701 MS SBBCINT Ruhrpiercer (Ruhr area)",
 		["br193_ms_sbb10_name"] = 		"Class 193 532 MS SBBCINT Nightpiercer 2 (Rhine)",
-		["br193_ms_sbb11_name"] = 		"Class 6193 110 MS SBBCINT Goldpiercer (Zuckersee)",
+		["br193_ms_sbb11_name"] = 		"Class 193 110 MS SBBCINT Goldpiercer (Zuckersee)",
 		["br193_ms_sbb12_name"] = 		"Class 193 492 MS SBBCINT Nightpiercer (Rhine)",
+		["br193_ms_sbb13_name"] = 		"Class 193 139 MS SBBCINT Italienpiercer (xxxxx)",		
+		["br193_ms_sbb14_name"] = 		"Class 193 45x MS SBBCINT PLATZHALTER",
+		["br193_ms_sbb15_name"] = 		"Class 193 45x MS SBBCINT PLATZHALTER",
+		["br193_ms_sbb16_name"] = 		"Class 193 54x MS SBBCINT PLATZHALTER",
+		["br193_ms_sbb17_name"] = 		"Class 193 54x MS SBBCINT PLATZHALTER",
+		["br193_ms_sbb18_name"] = 		"Class 193 05x MS SBBC PLATZHALTER",
+		["br193_ms_sbb19_name"] = 		"Class 193 05x MS SBBC PLATZHALTER",
 
 
-		["br193_ms_sbb13_name"] = 		"Class 193 659 MS SBBCINT Cargo trains (Berlin)",
+		["br193_ms_sbbxx_name"] = 		"Class 193 659 MS SBBCINT Cargo trains (Berlin)",
 
 		["br193_ms_setg_name"] = 		"Class 193 839 MS SETG (Alpenlok)",
 		["br193_ms_setg2_name"] = 		"Class 193 821 MS SETG (Daniel)",
@@ -339,7 +346,7 @@ return {
 		["br193_ms_pkp3_name_fake"] = 		"Fake - Class 370 022 MS PKP Cargo (roof blue)",
 		["br193_ms_pkp4_name_fake"] = 		"Fake - Class 383 053 MS PKP Cargo (Unitcredit) ",
 
-		["br193_ms_sbb_name_fake"] = 		"Fake - Class 6193 107 MS SBBCINT Silverpiercer (Lake Constance)",
+		["br193_ms_sbb_name_fake"] = 		"Fake - Class 193 107 MS SBBCINT Silverpiercer (Lake Constance)",
 		["br193_ms_sbb2_name_fake"] = 		"Fake - Class 193 258 MS SBBCINT/ELL",
 		["br193_ms_sbb3_name_fake"] = 		"Fake - Class 193 658 MS SBBCINT Shadowpiercer (Lake Lucerne)",
 		["br193_ms_sbb4_name_fake"] = 		"Fake - Class 193 469 MS SBBCINT Alppiercer (Simplon)",
@@ -349,11 +356,18 @@ return {
 		["br193_ms_sbb8_name_fake"] = 		"Fake - Class 193 525 MS SBBCINT Hollandpiercer (Rotterdam)",
 		["br193_ms_sbb9_name_fake"] = 		"Fake - Class 193 701 MS SBBCINT Ruhrpiercer (Ruhr area)",
 		["br193_ms_sbb10_name_fake"] = 		"Fake - Class 193 532 MS SBBCINT Nightpiercer 2 (Rhine)",
-		["br193_ms_sbb11_name_fake"] = 		"Fake - Class 6193 110 MS SBBCINT Goldpiercer (Zuckersee)",
+		["br193_ms_sbb11_name_fake"] = 		"Fake - Class 193 110 MS SBBCINT Goldpiercer (Zuckersee)",
 		["br193_ms_sbb12_name_fake"] = 		"Fake - Class 193 492 MS SBBCINT Nightpiercer (Rhine)",
+		["br193_ms_sbb13_name_fake"] = 		"Fake - Class 193 139 MS SBBCINT Italienpiercer (xxxxx)",		
+		["br193_ms_sbb14_name_fake"] = 		"Fake - Class 193 45x MS SBBCINT PLATZHALTER",
+		["br193_ms_sbb15_name_fake"] = 		"Fake - Class 193 45x MS SBBCINT PLATZHALTER",
+		["br193_ms_sbb16_name_fake"] = 		"Fake - Class 193 54x MS SBBCINT PLATZHALTER",
+		["br193_ms_sbb17_name_fake"] = 		"Fake - Class 193 54x MS SBBCINT PLATZHALTER",
+		["br193_ms_sbb18_name_fake"] = 		"Fake - Class 193 05x MS SBBC PLATZHALTER",
+		["br193_ms_sbb19_name_fake"] = 		"Fake - Class 193 05x MS SBBC PLATZHALTER",
 
 
-		["br193_ms_sbb13_name_fake"] = 		"Fake - Class 193 659 MS SBBCINT Cargo trains (Berlin)",
+		["br193_ms_sbbxx_name_fake"] = 		"Fake - Class 193 659 MS SBBCINT Cargo trains (Berlin)",
 
 		["br193_ms_setg_name_fake"] = 		"Fake - Class 193 839 MS SETG (Alpenlok)",
 		["br193_ms_setg2_name_fake"] = 		"Fake - Class 193 821 MS SETG (Daniel)",
@@ -539,7 +553,7 @@ return {
 		["br193_ms_pkp3_name"] = 		"BR 370 022 MS PKP Cargo (Dach blau)",
 		["br193_ms_pkp4_name"] = 		"BR 383 053 MS PKP Cargo (Unitcredit) ",
 
-		["br193_ms_sbb_name"] = 		"BR 6193 107 MS SBBCINT Silverpiercer (Bodensee)",
+		["br193_ms_sbb_name"] = 		"BR 193 107 MS SBBCINT Silverpiercer (Bodensee)",
 		["br193_ms_sbb2_name"] = 		"BR 193 258 MS SBBCINT/ELL",
 		["br193_ms_sbb3_name"] = 		"BR 193 658 MS SBBCINT Shadowpiercer (Vierwaldstättersee)",
 		["br193_ms_sbb4_name"] = 		"BR 193 469 MS SBBCINT Alppiercer (Simplon)",
@@ -549,11 +563,17 @@ return {
 		["br193_ms_sbb8_name"] = 		"BR 193 525 MS SBBCINT Hollandpiercer (Rotterdam)",
 		["br193_ms_sbb9_name"] = 		"BR 193 701 MS SBBCINT Ruhrpiercer (Ruhrgebiet)",
 		["br193_ms_sbb10_name"] = 		"BR 193 532 MS SBBCINT Nightpiercer 2 (Rhein)",
-		["br193_ms_sbb11_name"] = 		"BR 6193 110 MS SBBCINT Goldpiercer (Zuckersee)",
+		["br193_ms_sbb11_name"] = 		"BR 193 110 MS SBBCINT Goldpiercer (Zuckersee)",
 		["br193_ms_sbb12_name"] = 		"BR 193 492 MS SBBCINT Nightpiercer (Rhein)",
+		["br193_ms_sbb13_name"] = 		"BR 193 139 MS SBBCINT Italienpiercer (xxxxx)",		
+		["br193_ms_sbb14_name"] = 		"BR 193 45x MS SBBCINT PLATZHALTER",
+		["br193_ms_sbb15_name"] = 		"BR 193 45x MS SBBCINT PLATZHALTER",
+		["br193_ms_sbb16_name"] = 		"BR 193 54x MS SBBCINT PLATZHALTER",
+		["br193_ms_sbb17_name"] = 		"BR 193 54x MS SBBCINT PLATZHALTER",
+		["br193_ms_sbb18_name"] = 		"BR 193 05x MS SBBC PLATZHALTER",
+		["br193_ms_sbb19_name"] = 		"BR 193 05x MS SBBC PLATZHALTER",
 
-
-		["br193_ms_sbb13_name"] = 		"BR 193 659 MS SBBCINT Güterbahnen (Berlin)",
+		["br193_ms_sbbxx_name"] = 		"BR 193 659 MS SBBCINT Güterbahnen (Berlin)",
 
 		["br193_ms_setg_name"] = 		"BR 193 839 MS SETG (Alpenlok)",
 		["br193_ms_setg2_name"] = 		"BR 193 821 MS SETG (Daniel)",
@@ -775,7 +795,7 @@ return {
 		["br193_ms_pkp3_name_fake"] = 		"Fake - BR 370 022 MS PKP Cargo (Dach blau)",
 		["br193_ms_pkp4_name_fake"] = 		"Fake - BR 383 053 MS PKP Cargo (Unitcredit) ",
 
-		["br193_ms_sbb_name_fake"] = 		"Fake - BR 6193 107 MS SBBCINT Silverpiercer (Bodensee)",
+		["br193_ms_sbb_name_fake"] = 		"Fake - BR 193 107 MS SBBCINT Silverpiercer (Bodensee)",
 		["br193_ms_sbb2_name_fake"] = 		"Fake - BR 193 258 MS SBBCINT/ELL",
 		["br193_ms_sbb3_name_fake"] = 		"Fake - BR 193 658 MS SBBCINT Shadowpiercer (Vierwaldstättersee)",
 		["br193_ms_sbb4_name_fake"] = 		"Fake - BR 193 469 MS SBBCINT Alppiercer (Simplon)",
@@ -785,11 +805,18 @@ return {
 		["br193_ms_sbb8_name_fake"] = 		"Fake - BR 193 525 MS SBBCINT Hollandpiercer (Rotterdam)",
 		["br193_ms_sbb9_name_fake"] = 		"Fake - BR 193 701 MS SBBCINT Ruhrpiercer (Ruhrgebiet)",
 		["br193_ms_sbb10_name_fake"] = 		"Fake - BR 193 532 MS SBBCINT Nightpiercer 2 (Rhein)",
-		["br193_ms_sbb11_name_fake"] = 		"Fake - BR 6193 110 MS SBBCINT Goldpiercer (Zuckersee)",
+		["br193_ms_sbb11_name_fake"] = 		"Fake - BR 193 110 MS SBBCINT Goldpiercer (Zuckersee)",
 		["br193_ms_sbb12_name_fake"] = 		"Fake - BR 193 492 MS SBBCINT Nightpiercer (Rhein)",
+		["br193_ms_sbb13_name_fake"] = 		"Fake - BR 193 139 MS SBBCINT Italienpiercer (xxxxx)",		
+		["br193_ms_sbb14_name_fake"] = 		"Fake - BR 193 45x MS SBBCINT PLATZHALTER",
+		["br193_ms_sbb15_name_fake"] = 		"Fake - BR 193 45x MS SBBCINT PLATZHALTER",
+		["br193_ms_sbb16_name_fake"] = 		"Fake - BR 193 54x MS SBBCINT PLATZHALTER",
+		["br193_ms_sbb17_name_fake"] = 		"Fake - BR 193 54x MS SBBCINT PLATZHALTER",
+		["br193_ms_sbb18_name_fake"] = 		"Fake - BR 193 05x MS SBBC PLATZHALTER",
+		["br193_ms_sbb19_name_fake"] = 		"Fake - BR 193 05x MS SBBC PLATZHALTER",
 
 
-		["br193_ms_sbb13_name_fake"] = 		"Fake - BR 193 659 MS SBBCINT Güterbahnen (Berlin)",
+		["br193_ms_sbbxx_name_fake"] = 		"Fake - BR 193 659 MS SBBCINT Güterbahnen (Berlin)",
 
 		["br193_ms_setg_name_fake"] = 		"Fake - BR 193 839 MS SETG (Alpenlok)",
 		["br193_ms_setg2_name_fake"] = 		"Fake - BR 193 821 MS SETG (Daniel)",
