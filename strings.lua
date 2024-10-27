@@ -116,16 +116,6 @@ return {
 		["br193_ms_sbb10_name"] = 		"Class 193 532 MS SBBCINT Nightpiercer 2 (Rhine)",
 		["br193_ms_sbb11_name"] = 		"Class 193 110 MS SBBCINT Goldpiercer (Zuckersee)",
 		["br193_ms_sbb12_name"] = 		"Class 193 492 MS SBBCINT Nightpiercer (Rhine)",
-		["br193_ms_sbb13_name"] = 		"Class 193 139 MS SBBCINT Italienpiercer (xxxxx)",		
-		["br193_ms_sbb14_name"] = 		"Class 193 45x MS SBBCINT PLATZHALTER",
-		["br193_ms_sbb15_name"] = 		"Class 193 45x MS SBBCINT PLATZHALTER",
-		["br193_ms_sbb16_name"] = 		"Class 193 54x MS SBBCINT PLATZHALTER",
-		["br193_ms_sbb17_name"] = 		"Class 193 54x MS SBBCINT PLATZHALTER",
-		["br193_ms_sbb18_name"] = 		"Class 193 05x MS SBBC PLATZHALTER",
-		["br193_ms_sbb19_name"] = 		"Class 193 05x MS SBBC PLATZHALTER",
-
-
-		["br193_ms_sbbxx_name"] = 		"Class 193 659 MS SBBCINT Cargo trains (Berlin)",
 
 		["br193_ms_setg_name"] = 		"Class 193 839 MS SETG (Alpenlok)",
 		["br193_ms_setg2_name"] = 		"Class 193 821 MS SETG (Daniel)",
@@ -358,16 +348,6 @@ return {
 		["br193_ms_sbb10_name_fake"] = 		"Fake - Class 193 532 MS SBBCINT Nightpiercer 2 (Rhine)",
 		["br193_ms_sbb11_name_fake"] = 		"Fake - Class 193 110 MS SBBCINT Goldpiercer (Zuckersee)",
 		["br193_ms_sbb12_name_fake"] = 		"Fake - Class 193 492 MS SBBCINT Nightpiercer (Rhine)",
-		["br193_ms_sbb13_name_fake"] = 		"Fake - Class 193 139 MS SBBCINT Italienpiercer (xxxxx)",		
-		["br193_ms_sbb14_name_fake"] = 		"Fake - Class 193 45x MS SBBCINT PLATZHALTER",
-		["br193_ms_sbb15_name_fake"] = 		"Fake - Class 193 45x MS SBBCINT PLATZHALTER",
-		["br193_ms_sbb16_name_fake"] = 		"Fake - Class 193 54x MS SBBCINT PLATZHALTER",
-		["br193_ms_sbb17_name_fake"] = 		"Fake - Class 193 54x MS SBBCINT PLATZHALTER",
-		["br193_ms_sbb18_name_fake"] = 		"Fake - Class 193 05x MS SBBC PLATZHALTER",
-		["br193_ms_sbb19_name_fake"] = 		"Fake - Class 193 05x MS SBBC PLATZHALTER",
-
-
-		["br193_ms_sbbxx_name_fake"] = 		"Fake - Class 193 659 MS SBBCINT Cargo trains (Berlin)",
 
 		["br193_ms_setg_name_fake"] = 		"Fake - Class 193 839 MS SETG (Alpenlok)",
 		["br193_ms_setg2_name_fake"] = 		"Fake - Class 193 821 MS SETG (Daniel)",
@@ -565,15 +545,6 @@ return {
 		["br193_ms_sbb10_name"] = 		"BR 193 532 MS SBBCINT Nightpiercer 2 (Rhein)",
 		["br193_ms_sbb11_name"] = 		"BR 193 110 MS SBBCINT Goldpiercer (Zuckersee)",
 		["br193_ms_sbb12_name"] = 		"BR 193 492 MS SBBCINT Nightpiercer (Rhein)",
-		["br193_ms_sbb13_name"] = 		"BR 193 139 MS SBBCINT Italienpiercer (Monte Rosa)",		
-		["br193_ms_sbb14_name"] = 		"BR 193 547 MS SBBCINT Alppiercer 3 (xxxx)",
-		["br193_ms_sbb15_name"] = 		"BR 193 543 MS SBBCINT #BorderlessSwissQuality (xxx)",
-		["br193_ms_sbb16_name"] = 		"BR 193 451 MS SBBCINT 1500. Siemens Vectron (Bavaria München)",
-		["br193_ms_sbb17_name"] = 		"BR 193 54x MS SBBCINT PLATZHALTER",
-		["br193_ms_sbb18_name"] = 		"BR 193 051 MS SBBC",
-		["br193_ms_sbb19_name"] = 		"BR 193 05x MS SBBC PLATZHALTER",
-
-		["br193_ms_sbbxx_name"] = 		"BR 193 659 MS SBBCINT Güterbahnen (Berlin)",
 
 		["br193_ms_setg_name"] = 		"BR 193 839 MS SETG (Alpenlok)",
 		["br193_ms_setg2_name"] = 		"BR 193 821 MS SETG (Daniel)",
@@ -807,16 +778,6 @@ return {
 		["br193_ms_sbb10_name_fake"] = 		"Fake - BR 193 532 MS SBBCINT Nightpiercer 2 (Rhein)",
 		["br193_ms_sbb11_name_fake"] = 		"Fake - BR 193 110 MS SBBCINT Goldpiercer (Zuckersee)",
 		["br193_ms_sbb12_name_fake"] = 		"Fake - BR 193 492 MS SBBCINT Nightpiercer (Rhein)",
-		["br193_ms_sbb13_name_fake"] = 		"Fake - BR 193 139 MS SBBCINT Italienpiercer (xxxxx)",		
-		["br193_ms_sbb14_name_fake"] = 		"Fake - BR 193 45x MS SBBCINT PLATZHALTER",
-		["br193_ms_sbb15_name_fake"] = 		"Fake - BR 193 45x MS SBBCINT PLATZHALTER",
-		["br193_ms_sbb16_name_fake"] = 		"Fake - BR 193 54x MS SBBCINT PLATZHALTER",
-		["br193_ms_sbb17_name_fake"] = 		"Fake - BR 193 54x MS SBBCINT PLATZHALTER",
-		["br193_ms_sbb18_name_fake"] = 		"Fake - BR 193 05x MS SBBC PLATZHALTER",
-		["br193_ms_sbb19_name_fake"] = 		"Fake - BR 193 05x MS SBBC PLATZHALTER",
-
-
-		["br193_ms_sbbxx_name_fake"] = 		"Fake - BR 193 659 MS SBBCINT Güterbahnen (Berlin)",
 
 		["br193_ms_setg_name_fake"] = 		"Fake - BR 193 839 MS SETG (Alpenlok)",
 		["br193_ms_setg2_name_fake"] = 		"Fake - BR 193 821 MS SETG (Daniel)",
