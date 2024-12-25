@@ -5,6 +5,15 @@ return {
 		["mod_name"] = "Vectron MS und AC repaint package 1",
 		["mod_desc"] = "This is the repaint package for the Siemens Vectron MS and AC from the ModWerkstatt. There are 77 paint finishes included in this package.",
 
+		["br193_desc"] = "The Vectron is a modern three-phase locomotive for international passenger and freight transport in Europe. In 2014 the Vectron MS was presented for the first time with a speed of 200 km/h (also available with 160 km/h) and a continuous output of 6400 kW.",
+
+		["br192_desc"] = "The Smartron is a slimmed down version of the Vectron. The Smartron is only available in blue metallic, the power is 5600 kW and is only approved for 140 km/h, the locomotive only runs in one country at a time. Smartron has the train protection systems PZB/LZB and ETCS for Germany.",
+
+		["br193_ms"] = 	"Vectron as a multi-system locomotive with 4 pantographs",
+		["br193_ac"] = 	"Vectron as a multi-system locomotive with 2 pantographs",
+		["br193_zza"] = "Vectron as an AC locomotive with 2 pantographs and a train destination indicator",
+		["br192"] = 	"Smartron as AC locomotive with 2 pantographs",
+
 		["br193_ms_siemens_name"] = 	"Class 193 901 MS Siemens",
 		["br193_ms_siemens2_name"] = 	"Class 6193 400 MS Siemens (Vectron 230 km/h)",
 		["br193_ms_siemens3_name"] = 	"Class 193 844 MS Siemens (Creating Corridors)",
@@ -367,6 +376,15 @@ return {
 		["mod_name"] = "Vectron MS und AC Repaintpaket 1",
 		["mod_desc"] = "Dies ist das Repaintpaket für die Siemens Vectron MS und AC von der ModWerkstatt. In diesem Paket sind weitere 77 Lackierungen enthalten.",
 
+		["br193_desc"] = "Der Vectron ist eine moderene Drehstromlokomotive für den internationalen Personen- und Güterverkehr in Europa. 2014 wurde erstmal der Vectron MS vorgestellt mit einer Geschwindigkeit von 200 km/h (auch mit 160 km/h erhältlich) und einer Dauerleistung von 6400 kW.",
+
+		["br192_desc"] = "Die Smartron ist eine abgespeckte Version der Vectron. Die Smartron ist nur in blau metallic erhältlich, die Leistung beträgt 5600 kW und ist nur auf 140 km/h zugelassen, die Lok darf auch immer nur in einem Land verkehren. Die Smartron besitzt für Deutschland die Zugsicherungssysteme PZB/LZB und ETCS. ",
+
+		["br193_ms"] = 	"Vectron als Mehrsystem-Lok mit 4 Stromabnehmern",
+		["br193_ac"] = 	"Vectron als Wechselstrom-Lok mit 2 Stromabnehmern",
+		["br193_zza"] = "Vectron als Wechselstrom-Lok mit 2 Stromabnehmern und Zugzielanzeiger",
+		["br192"] = 	"Smartron als Wechselstrom-Lok mit 2 Stromabnehmern",
+		
 		["br193_ms_siemens_name"] = 	"BR 193 901 MS Siemens",
 		["br193_ms_siemens2_name"] = 	"BR 6193 400 MS Siemens (Vectron 230 km/h)",
 		["br193_ms_siemens3_name"] = 	"BR 193 844 MS Siemens (Creating Corridors)",
