@@ -2,7 +2,7 @@ function data()
 return {
 	en = {
 
-		["mod_name"] = "Siemens Vectron MS und AC Repaint Pack 1",
+		["mod_name"] = "Vectron MS und AC repaint package 1",
 		["mod_desc"] = "This is the repaint package for the Siemens Vectron MS and AC from the ModWerkstatt. There are 77 paint finishes included in this package.",
 
 		["br193_ms_siemens_name"] = 	"Class 193 901 MS Siemens",
@@ -364,7 +364,7 @@ return {
 	},
 	de = {
 
-		["mod_name"] = "Siemens Vectron MS und AC Repaint Paket 1",
+		["mod_name"] = "Vectron MS und AC Repaintpaket 1",
 		["mod_desc"] = "Dies ist das Repaintpaket für die Siemens Vectron MS und AC von der ModWerkstatt. In diesem Paket sind weitere 77 Lackierungen enthalten.",
 
 		["br193_ms_siemens_name"] = 	"BR 193 901 MS Siemens",
