@@ -3,7 +3,7 @@ return {
 	en = {
 
 		["mod_name"] = "Vectron MS und AC repaint package 1",
-		["mod_desc"] = "This is the repaint package for the Siemens Vectron MS and AC from the ModWerkstatt. There are 77 paint finishes included in this package.",
+		["mod_desc"] = "This is the repaint package for the Siemens Vectron MS and AC from the ModWerkstatt. There are 79 paint finishes included in this package.",
 
 		["br193_desc"] = "The Vectron is a modern three-phase locomotive for international passenger and freight transport in Europe. In 2014 the Vectron MS was presented for the first time with a speed of 200 km/h (also available with 160 km/h) and a continuous output of 6400 kW.",
 
@@ -374,7 +374,7 @@ return {
 	de = {
 
 		["mod_name"] = "Vectron MS und AC Repaintpaket 1",
-		["mod_desc"] = "Dies ist das Repaintpaket für die Siemens Vectron MS und AC von der ModWerkstatt. In diesem Paket sind weitere 77 Lackierungen enthalten.",
+		["mod_desc"] = "Dies ist das Repaintpaket für die Siemens Vectron MS und AC von der ModWerkstatt. In diesem Paket sind weitere 79 Lackierungen enthalten.",
 
 		["br193_desc"] = "Der Vectron ist eine moderene Drehstromlokomotive für den internationalen Personen- und Güterverkehr in Europa. 2014 wurde erstmal der Vectron MS vorgestellt mit einer Geschwindigkeit von 200 km/h (auch mit 160 km/h erhältlich) und einer Dauerleistung von 6400 kW.",
 
